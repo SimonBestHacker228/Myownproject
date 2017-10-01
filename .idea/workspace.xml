@@ -38,11 +38,60 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="create_tables.sql" pinned="false" current-in-tab="true">
+      <file leaf-file-name="create_tables.sql" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/db/create_tables.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+            <state relative-caret-position="105">
+              <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+              <folding>
+                <marker date="1506886591904" expanded="true" signature="41:1983" ph="CREATE TABLE... currspotdeals" />
+                <marker date="1506886591904" expanded="true" signature="2016:3610" ph="CREATE TABLE... stockdeals" />
+                <marker date="1506886591904" expanded="true" signature="3643:3835" ph="CREATE TABLE... tabletypes" />
+                <marker date="1506886591904" expanded="true" signature="3865:4229" ph="CREATE TABLE... account" />
+                <marker date="1506886591904" expanded="true" signature="4231:4277" ph="ALTER TABLE public.account... " />
+                <marker date="1506886591904" expanded="true" signature="4310:4466" ph="CREATE TABLE... client" />
+                <marker date="1506886591904" expanded="true" signature="4468:4513" ph="ALTER TABLE public.client... " />
+                <marker date="1506886591904" expanded="true" signature="4550:4759" ph="CREATE TABLE... client_strat" />
+                <marker date="1506886591904" expanded="true" signature="4761:4812" ph="ALTER TABLE public.client_strat... " />
+                <marker date="1506886591904" expanded="true" signature="4844:5262" ph="CREATE TABLE... deals" />
+                <marker date="1506886591904" expanded="true" signature="5264:5308" ph="ALTER TABLE public.deals... " />
+                <marker date="1506886591904" expanded="true" signature="5342:5523" ph="CREATE TABLE... instr" />
+                <marker date="1506886591904" expanded="true" signature="5525:5569" ph="ALTER TABLE public.instr... " />
+                <marker date="1506886591904" expanded="true" signature="5603:5902" ph="CREATE TABLE... saldo" />
+                <marker date="1506886591904" expanded="true" signature="5904:5948" ph="ALTER TABLE public.saldo... " />
+                <marker date="1506886591904" expanded="true" signature="5982:6146" ph="CREATE TABLE... strat" />
+                <marker date="1506886591904" expanded="true" signature="6148:6192" ph="ALTER TABLE public.strat... " />
+                <marker date="1506886591904" expanded="true" signature="6229:7097" ph="CREATE TABLE... futdeals" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="merge_fields.(integer).sql" pinned="false" current-in-tab="false">
+        <entry file="dbSrc:///c8914e02/03217a2e-b171-4141-a925-381e508b95b4/database/9219121686_db/schema/public/routine/merge_fields.(integer).sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="console.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/03217a2e-b171-4141-a925-381e508b95b4/console.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="create_spotdeals.sql" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/db/create_spotdeals.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -161,13 +210,55 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/03217a2e-b171-4141-a925-381e508b95b4/console.sql" />
     <entry file="dbSrc:///a1c426b1/03217a2e-b171-4141-a925-381e508b95b4/database/9219121686_db/schema/public/routine/merge_fields.(integer).sql" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/03217a2e-b171-4141-a925-381e508b95b4/console_1.sql" />
     <entry file="file://$PROJECT_DIR$/db/create_tables.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        <state relative-caret-position="105">
+          <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+          <folding>
+            <marker date="1506886591904" expanded="true" signature="41:1983" ph="CREATE TABLE... currspotdeals" />
+            <marker date="1506886591904" expanded="true" signature="2016:3610" ph="CREATE TABLE... stockdeals" />
+            <marker date="1506886591904" expanded="true" signature="3643:3835" ph="CREATE TABLE... tabletypes" />
+            <marker date="1506886591904" expanded="true" signature="3865:4229" ph="CREATE TABLE... account" />
+            <marker date="1506886591904" expanded="true" signature="4231:4277" ph="ALTER TABLE public.account... " />
+            <marker date="1506886591904" expanded="true" signature="4310:4466" ph="CREATE TABLE... client" />
+            <marker date="1506886591904" expanded="true" signature="4468:4513" ph="ALTER TABLE public.client... " />
+            <marker date="1506886591904" expanded="true" signature="4550:4759" ph="CREATE TABLE... client_strat" />
+            <marker date="1506886591904" expanded="true" signature="4761:4812" ph="ALTER TABLE public.client_strat... " />
+            <marker date="1506886591904" expanded="true" signature="4844:5262" ph="CREATE TABLE... deals" />
+            <marker date="1506886591904" expanded="true" signature="5264:5308" ph="ALTER TABLE public.deals... " />
+            <marker date="1506886591904" expanded="true" signature="5342:5523" ph="CREATE TABLE... instr" />
+            <marker date="1506886591904" expanded="true" signature="5525:5569" ph="ALTER TABLE public.instr... " />
+            <marker date="1506886591904" expanded="true" signature="5603:5902" ph="CREATE TABLE... saldo" />
+            <marker date="1506886591904" expanded="true" signature="5904:5948" ph="ALTER TABLE public.saldo... " />
+            <marker date="1506886591904" expanded="true" signature="5982:6146" ph="CREATE TABLE... strat" />
+            <marker date="1506886591904" expanded="true" signature="6148:6192" ph="ALTER TABLE public.strat... " />
+            <marker date="1506886591904" expanded="true" signature="6229:7097" ph="CREATE TABLE... futdeals" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbSrc:///c8914e02/03217a2e-b171-4141-a925-381e508b95b4/database/9219121686_db/schema/public/routine/merge_fields.(integer).sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/03217a2e-b171-4141-a925-381e508b95b4/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/create_spotdeals.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
