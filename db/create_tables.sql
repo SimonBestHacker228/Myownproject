@@ -1,4 +1,5 @@
 ﻿--DROP TABLE public.currspotdeals;
+--ggg
 CREATE TABLE public.currspotdeals
 (
 NODE "varchar"(60),	
