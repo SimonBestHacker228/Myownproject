@@ -8,7 +8,7 @@
       <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
       <secret-storage>master_key</secret-storage>
       <user-name>9219121686_db</user-name>
-      <introspection-schemas>9219121686_db:public</introspection-schemas>
+      <introspection-schemas>9219121686_db:*</introspection-schemas>
     </data-source>
   </component>
 </project>
